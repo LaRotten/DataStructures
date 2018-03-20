@@ -1,4 +1,4 @@
-package Stack;
+package StackR;
 import java.util.Stack;
 public class StackDeneme1 {
 	static class Queue{
